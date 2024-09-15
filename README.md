@@ -24,9 +24,10 @@ The input data should be in CSV format with the following columns:
 * elec: The electricity usage.
 
 # Model Evaluation
-The script evaluates the linear regression model using the R2 score for different combinations of input features.
-The results are sorted by the highest R2 scores, and the model's accuracy is assessed by comparing actual and predicted electricity usage.
-Example Output
-R-squared (R2) Score: The script sorts and displays the R2 scores for all feature combinations in descending order, along with scaled R2 values.
-Accuracy: It calculates the percentage of correct predictions within the first 31 rows of the test data.
-Results are saved in result_output_sorted.txt.
+* The script evaluates the linear regression model using the R2 score for different combinations of input features.
+* The results are sorted by the highest R2 scores, and the model's accuracy is assessed by comparing actual and predicted electricity usage.
+
+# Example Output
+* R-squared (R2) Score: The script sorts and displays the R2 scores for all feature combinations in descending order, along with scaled R2 values.
+* Accuracy: It calculates the percentage of correct predictions within the first 31 rows of the test data.
+* Results are saved in result_output_sorted.txt.
