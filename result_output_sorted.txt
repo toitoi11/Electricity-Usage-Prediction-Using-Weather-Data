@@ -1,0 +1,768 @@
+Sort in descending order by highest accuracy.
+
+List in order of highest R-squared (R2) values:
+Selected Columns: ('temp_high', 'temp_low', 'rain', 'elec'), R-squared (R2) score: 0.6297
+Scaled R-squared (R2) score:  95.00
+Percentage of correct predictions for rows 1-31: 77.42%
+Selected Columns: ('temp_high', 'temp_low', 'rain', 'day', 'elec'), R-squared (R2) score: 0.6294
+Scaled R-squared (R2) score:  94.98
+Percentage of correct predictions for rows 1-31: 74.19%
+Selected Columns: ('temp_high', 'temp_low', 'rain', 'humid', 'day', 'elec'), R-squared (R2) score: 0.6285
+Scaled R-squared (R2) score:  94.90
+Percentage of correct predictions for rows 1-31: 83.87%
+Selected Columns: ('temp_high', 'temp_low', 'rain', 'humid', 'elec'), R-squared (R2) score: 0.6269
+Scaled R-squared (R2) score:  94.76
+Percentage of correct predictions for rows 1-31: 80.65%
+Selected Columns: ('temp_high', 'temp_low', 'rain', 'humid', 'day', 'light', 'elec'), R-squared (R2) score: 0.6266
+Scaled R-squared (R2) score:  94.74
+Percentage of correct predictions for rows 1-31: 83.87%
+Selected Columns: ('temp_mean', 'temp_high', 'temp_low', 'rain', 'elec'), R-squared (R2) score: 0.6262
+Scaled R-squared (R2) score:  94.71
+Percentage of correct predictions for rows 1-31: 74.19%
+Selected Columns: ('temp_mean', 'temp_high', 'temp_low', 'rain', 'day', 'elec'), R-squared (R2) score: 0.6262
+Scaled R-squared (R2) score:  94.71
+Percentage of correct predictions for rows 1-31: 74.19%
+Selected Columns: ('temp_mean', 'temp_high', 'temp_low', 'rain', 'humid', 'day', 'elec'), R-squared (R2) score: 0.6254
+Scaled R-squared (R2) score:  94.64
+Percentage of correct predictions for rows 1-31: 77.42%
+Selected Columns: ('temp_mean', 'temp_high', 'rain', 'humid', 'day', 'elec'), R-squared (R2) score: 0.6252
+Scaled R-squared (R2) score:  94.62
+Percentage of correct predictions for rows 1-31: 77.42%
+Selected Columns: ('temp_mean', 'temp_high', 'rain', 'humid', 'day', 'light', 'elec'), R-squared (R2) score: 0.6252
+Scaled R-squared (R2) score:  94.62
+Percentage of correct predictions for rows 1-31: 80.65%
+Selected Columns: ('temp_high', 'temp_low', 'rain', 'humid', 'light', 'elec'), R-squared (R2) score: 0.6246
+Scaled R-squared (R2) score:  94.57
+Percentage of correct predictions for rows 1-31: 80.65%
+Selected Columns: ('temp_mean', 'rain', 'humid', 'day', 'light', 'elec'), R-squared (R2) score: 0.6245
+Scaled R-squared (R2) score:  94.56
+Percentage of correct predictions for rows 1-31: 74.19%
+Selected Columns: ('temp_mean', 'temp_high', 'temp_low', 'rain', 'humid', 'day', 'light', 'elec'), R-squared (R2) score: 0.6245
+Scaled R-squared (R2) score:  94.56
+Percentage of correct predictions for rows 1-31: 80.65%
+Selected Columns: ('temp_mean', 'temp_high', 'temp_low', 'rain', 'humid', 'elec'), R-squared (R2) score: 0.6236
+Scaled R-squared (R2) score:  94.48
+Percentage of correct predictions for rows 1-31: 77.42%
+Selected Columns: ('temp_mean', 'temp_high', 'rain', 'humid', 'elec'), R-squared (R2) score: 0.6235
+Scaled R-squared (R2) score:  94.47
+Percentage of correct predictions for rows 1-31: 77.42%
+Selected Columns: ('temp_mean', 'rain', 'humid', 'light', 'elec'), R-squared (R2) score: 0.6233
+Scaled R-squared (R2) score:  94.46
+Percentage of correct predictions for rows 1-31: 77.42%
+Selected Columns: ('temp_mean', 'temp_high', 'rain', 'humid', 'light', 'elec'), R-squared (R2) score: 0.6233
+Scaled R-squared (R2) score:  94.46
+Percentage of correct predictions for rows 1-31: 80.65%
+Selected Columns: ('temp_mean', 'temp_high', 'temp_low', 'rain', 'humid', 'light', 'elec'), R-squared (R2) score: 0.6224
+Scaled R-squared (R2) score:  94.38
+Percentage of correct predictions for rows 1-31: 77.42%
+Selected Columns: ('temp_mean', 'temp_high', 'rain', 'day', 'elec'), R-squared (R2) score: 0.6219
+Scaled R-squared (R2) score:  94.34
+Percentage of correct predictions for rows 1-31: 74.19%
+Selected Columns: ('temp_mean', 'temp_high', 'rain', 'elec'), R-squared (R2) score: 0.6218
+Scaled R-squared (R2) score:  94.33
+Percentage of correct predictions for rows 1-31: 74.19%
+Selected Columns: ('temp_mean', 'rain', 'humid', 'day', 'elec'), R-squared (R2) score: 0.6214
+Scaled R-squared (R2) score:  94.30
+Percentage of correct predictions for rows 1-31: 74.19%
+Selected Columns: ('temp_high', 'temp_low', 'rain', 'day', 'light', 'elec'), R-squared (R2) score: 0.6209
+Scaled R-squared (R2) score:  94.26
+Percentage of correct predictions for rows 1-31: 77.42%
+Selected Columns: ('temp_mean', 'rain', 'day', 'elec'), R-squared (R2) score: 0.6208
+Scaled R-squared (R2) score:  94.25
+Percentage of correct predictions for rows 1-31: 70.97%
+Selected Columns: ('temp_mean', 'temp_low', 'rain', 'day', 'elec'), R-squared (R2) score: 0.6207
+Scaled R-squared (R2) score:  94.24
+Percentage of correct predictions for rows 1-31: 70.97%
+Selected Columns: ('temp_mean', 'rain', 'elec'), R-squared (R2) score: 0.6206
+Scaled R-squared (R2) score:  94.23
+Percentage of correct predictions for rows 1-31: 70.97%
+Selected Columns: ('temp_mean', 'temp_low', 'rain', 'elec'), R-squared (R2) score: 0.6204
+Scaled R-squared (R2) score:  94.22
+Percentage of correct predictions for rows 1-31: 70.97%
+Selected Columns: ('temp_mean', 'temp_high', 'temp_low', 'rain', 'day', 'light', 'elec'), R-squared (R2) score: 0.6204
+Scaled R-squared (R2) score:  94.21
+Percentage of correct predictions for rows 1-31: 77.42%
+Selected Columns: ('temp_mean', 'rain', 'humid', 'elec'), R-squared (R2) score: 0.6201
+Scaled R-squared (R2) score:  94.19
+Percentage of correct predictions for rows 1-31: 77.42%
+Selected Columns: ('temp_high', 'temp_low', 'rain', 'light', 'elec'), R-squared (R2) score: 0.6199
+Scaled R-squared (R2) score:  94.17
+Percentage of correct predictions for rows 1-31: 80.65%
+Selected Columns: ('temp_mean', 'rain', 'day', 'light', 'elec'), R-squared (R2) score: 0.6196
+Scaled R-squared (R2) score:  94.15
+Percentage of correct predictions for rows 1-31: 70.97%
+Selected Columns: ('temp_mean', 'temp_high', 'temp_low', 'rain', 'light', 'elec'), R-squared (R2) score: 0.6193
+Scaled R-squared (R2) score:  94.12
+Percentage of correct predictions for rows 1-31: 77.42%
+Selected Columns: ('temp_mean', 'rain', 'light', 'elec'), R-squared (R2) score: 0.6191
+Scaled R-squared (R2) score:  94.10
+Percentage of correct predictions for rows 1-31: 74.19%
+Selected Columns: ('temp_mean', 'temp_high', 'rain', 'day', 'light', 'elec'), R-squared (R2) score: 0.6188
+Scaled R-squared (R2) score:  94.08
+Percentage of correct predictions for rows 1-31: 77.42%
+Selected Columns: ('temp_mean', 'temp_low', 'rain', 'humid', 'day', 'light', 'elec'), R-squared (R2) score: 0.6180
+Scaled R-squared (R2) score:  94.01
+Percentage of correct predictions for rows 1-31: 77.42%
+Selected Columns: ('temp_mean', 'temp_high', 'rain', 'light', 'elec'), R-squared (R2) score: 0.6178
+Scaled R-squared (R2) score:  93.99
+Percentage of correct predictions for rows 1-31: 80.65%
+Selected Columns: ('temp_mean', 'temp_low', 'rain', 'humid', 'day', 'elec'), R-squared (R2) score: 0.6169
+Scaled R-squared (R2) score:  93.92
+Percentage of correct predictions for rows 1-31: 77.42%
+Selected Columns: ('temp_mean', 'temp_low', 'rain', 'day', 'light', 'elec'), R-squared (R2) score: 0.6166
+Scaled R-squared (R2) score:  93.90
+Percentage of correct predictions for rows 1-31: 70.97%
+Selected Columns: ('temp_mean', 'temp_low', 'rain', 'humid', 'light', 'elec'), R-squared (R2) score: 0.6159
+Scaled R-squared (R2) score:  93.83
+Percentage of correct predictions for rows 1-31: 77.42%
+Selected Columns: ('temp_mean', 'temp_high', 'temp_low', 'elec'), R-squared (R2) score: 0.6157
+Scaled R-squared (R2) score:  93.82
+Percentage of correct predictions for rows 1-31: 74.19%
+Selected Columns: ('temp_mean', 'temp_low', 'rain', 'light', 'elec'), R-squared (R2) score: 0.6155
+Scaled R-squared (R2) score:  93.80
+Percentage of correct predictions for rows 1-31: 74.19%
+Selected Columns: ('temp_high', 'temp_low', 'elec'), R-squared (R2) score: 0.6152
+Scaled R-squared (R2) score:  93.77
+Percentage of correct predictions for rows 1-31: 74.19%
+Selected Columns: ('temp_mean', 'temp_low', 'rain', 'humid', 'elec'), R-squared (R2) score: 0.6149
+Scaled R-squared (R2) score:  93.75
+Percentage of correct predictions for rows 1-31: 77.42%
+Selected Columns: ('temp_mean', 'temp_high', 'elec'), R-squared (R2) score: 0.6146
+Scaled R-squared (R2) score:  93.72
+Percentage of correct predictions for rows 1-31: 74.19%
+Selected Columns: ('temp_mean', 'humid', 'light', 'elec'), R-squared (R2) score: 0.6144
+Scaled R-squared (R2) score:  93.70
+Percentage of correct predictions for rows 1-31: 77.42%
+Selected Columns: ('temp_mean', 'temp_high', 'temp_low', 'day', 'elec'), R-squared (R2) score: 0.6140
+Scaled R-squared (R2) score:  93.67
+Percentage of correct predictions for rows 1-31: 77.42%
+Selected Columns: ('temp_mean', 'light', 'elec'), R-squared (R2) score: 0.6132
+Scaled R-squared (R2) score:  93.60
+Percentage of correct predictions for rows 1-31: 74.19%
+Selected Columns: ('temp_high', 'temp_low', 'day', 'elec'), R-squared (R2) score: 0.6130
+Scaled R-squared (R2) score:  93.59
+Percentage of correct predictions for rows 1-31: 77.42%
+Selected Columns: ('temp_mean', 'temp_high', 'day', 'elec'), R-squared (R2) score: 0.6130
+Scaled R-squared (R2) score:  93.59
+Percentage of correct predictions for rows 1-31: 77.42%
+Selected Columns: ('temp_mean', 'humid', 'day', 'light', 'elec'), R-squared (R2) score: 0.6125
+Scaled R-squared (R2) score:  93.54
+Percentage of correct predictions for rows 1-31: 80.65%
+Selected Columns: ('temp_mean', 'temp_low', 'elec'), R-squared (R2) score: 0.6115
+Scaled R-squared (R2) score:  93.46
+Percentage of correct predictions for rows 1-31: 74.19%
+Selected Columns: ('temp_mean', 'day', 'light', 'elec'), R-squared (R2) score: 0.6114
+Scaled R-squared (R2) score:  93.45
+Percentage of correct predictions for rows 1-31: 77.42%
+Selected Columns: ('temp_mean', 'elec'), R-squared (R2) score: 0.6104
+Scaled R-squared (R2) score:  93.36
+Percentage of correct predictions for rows 1-31: 77.42%
+Selected Columns: ('temp_mean', 'temp_high', 'humid', 'elec'), R-squared (R2) score: 0.6100
+Scaled R-squared (R2) score:  93.33
+Percentage of correct predictions for rows 1-31: 80.65%
+Selected Columns: ('temp_mean', 'temp_low', 'day', 'elec'), R-squared (R2) score: 0.6099
+Scaled R-squared (R2) score:  93.33
+Percentage of correct predictions for rows 1-31: 77.42%
+Selected Columns: ('temp_mean', 'humid', 'elec'), R-squared (R2) score: 0.6097
+Scaled R-squared (R2) score:  93.31
+Percentage of correct predictions for rows 1-31: 77.42%
+Selected Columns: ('temp_mean', 'temp_high', 'humid', 'day', 'elec'), R-squared (R2) score: 0.6089
+Scaled R-squared (R2) score:  93.24
+Percentage of correct predictions for rows 1-31: 80.65%
+Selected Columns: ('temp_mean', 'temp_high', 'temp_low', 'humid', 'elec'), R-squared (R2) score: 0.6088
+Scaled R-squared (R2) score:  93.23
+Percentage of correct predictions for rows 1-31: 80.65%
+Selected Columns: ('temp_mean', 'day', 'elec'), R-squared (R2) score: 0.6085
+Scaled R-squared (R2) score:  93.20
+Percentage of correct predictions for rows 1-31: 80.65%
+Selected Columns: ('temp_mean', 'temp_high', 'light', 'elec'), R-squared (R2) score: 0.6085
+Scaled R-squared (R2) score:  93.20
+Percentage of correct predictions for rows 1-31: 80.65%
+Selected Columns: ('temp_mean', 'temp_high', 'humid', 'light', 'elec'), R-squared (R2) score: 0.6081
+Scaled R-squared (R2) score:  93.17
+Percentage of correct predictions for rows 1-31: 83.87%
+Selected Columns: ('temp_mean', 'humid', 'day', 'elec'), R-squared (R2) score: 0.6079
+Scaled R-squared (R2) score:  93.16
+Percentage of correct predictions for rows 1-31: 80.65%
+Selected Columns: ('temp_mean', 'temp_high', 'temp_low', 'light', 'elec'), R-squared (R2) score: 0.6079
+Scaled R-squared (R2) score:  93.15
+Percentage of correct predictions for rows 1-31: 80.65%
+Selected Columns: ('temp_mean', 'temp_high', 'temp_low', 'humid', 'day', 'elec'), R-squared (R2) score: 0.6079
+Scaled R-squared (R2) score:  93.15
+Percentage of correct predictions for rows 1-31: 80.65%
+Selected Columns: ('temp_mean', 'temp_high', 'day', 'light', 'elec'), R-squared (R2) score: 0.6077
+Scaled R-squared (R2) score:  93.14
+Percentage of correct predictions for rows 1-31: 77.42%
+Selected Columns: ('temp_mean', 'temp_low', 'light', 'elec'), R-squared (R2) score: 0.6076
+Scaled R-squared (R2) score:  93.13
+Percentage of correct predictions for rows 1-31: 74.19%
+Selected Columns: ('temp_mean', 'temp_high', 'humid', 'day', 'light', 'elec'), R-squared (R2) score: 0.6074
+Scaled R-squared (R2) score:  93.11
+Percentage of correct predictions for rows 1-31: 80.65%
+Selected Columns: ('temp_mean', 'temp_high', 'temp_low', 'day', 'light', 'elec'), R-squared (R2) score: 0.6072
+Scaled R-squared (R2) score:  93.10
+Percentage of correct predictions for rows 1-31: 77.42%
+Selected Columns: ('temp_high', 'temp_low', 'humid', 'elec'), R-squared (R2) score: 0.6069
+Scaled R-squared (R2) score:  93.07
+Percentage of correct predictions for rows 1-31: 83.87%
+Selected Columns: ('temp_mean', 'temp_low', 'day', 'light', 'elec'), R-squared (R2) score: 0.6068
+Scaled R-squared (R2) score:  93.06
+Percentage of correct predictions for rows 1-31: 77.42%
+Selected Columns: ('temp_mean', 'temp_low', 'humid', 'light', 'elec'), R-squared (R2) score: 0.6065
+Scaled R-squared (R2) score:  93.03
+Percentage of correct predictions for rows 1-31: 83.87%
+Selected Columns: ('temp_mean', 'temp_low', 'humid', 'elec'), R-squared (R2) score: 0.6064
+Scaled R-squared (R2) score:  93.03
+Percentage of correct predictions for rows 1-31: 83.87%
+Selected Columns: ('temp_mean', 'temp_high', 'temp_low', 'humid', 'light', 'elec'), R-squared (R2) score: 0.6059
+Scaled R-squared (R2) score:  92.99
+Percentage of correct predictions for rows 1-31: 83.87%
+Selected Columns: ('temp_mean', 'temp_low', 'humid', 'day', 'light', 'elec'), R-squared (R2) score: 0.6057
+Scaled R-squared (R2) score:  92.97
+Percentage of correct predictions for rows 1-31: 80.65%
+Selected Columns: ('temp_high', 'temp_low', 'humid', 'day', 'elec'), R-squared (R2) score: 0.6057
+Scaled R-squared (R2) score:  92.97
+Percentage of correct predictions for rows 1-31: 80.65%
+Selected Columns: ('temp_mean', 'temp_low', 'humid', 'day', 'elec'), R-squared (R2) score: 0.6055
+Scaled R-squared (R2) score:  92.95
+Percentage of correct predictions for rows 1-31: 80.65%
+Selected Columns: ('temp_mean', 'temp_high', 'temp_low', 'humid', 'day', 'light', 'elec'), R-squared (R2) score: 0.6054
+Scaled R-squared (R2) score:  92.95
+Percentage of correct predictions for rows 1-31: 80.65%
+Selected Columns: ('temp_high', 'rain', 'humid', 'day', 'light', 'elec'), R-squared (R2) score: 0.6045
+Scaled R-squared (R2) score:  92.87
+Percentage of correct predictions for rows 1-31: 83.87%
+Selected Columns: ('temp_high', 'temp_low', 'light', 'elec'), R-squared (R2) score: 0.6044
+Scaled R-squared (R2) score:  92.86
+Percentage of correct predictions for rows 1-31: 80.65%
+Selected Columns: ('temp_high', 'temp_low', 'day', 'light', 'elec'), R-squared (R2) score: 0.6035
+Scaled R-squared (R2) score:  92.79
+Percentage of correct predictions for rows 1-31: 80.65%
+Selected Columns: ('temp_high', 'rain', 'humid', 'light', 'elec'), R-squared (R2) score: 0.6027
+Scaled R-squared (R2) score:  92.72
+Percentage of correct predictions for rows 1-31: 83.87%
+Selected Columns: ('temp_high', 'temp_low', 'humid', 'light', 'elec'), R-squared (R2) score: 0.6023
+Scaled R-squared (R2) score:  92.68
+Percentage of correct predictions for rows 1-31: 83.87%
+Selected Columns: ('temp_high', 'temp_low', 'humid', 'day', 'light', 'elec'), R-squared (R2) score: 0.6017
+Scaled R-squared (R2) score:  92.63
+Percentage of correct predictions for rows 1-31: 83.87%
+Selected Columns: ('temp_low', 'rain', 'humid', 'light', 'elec'), R-squared (R2) score: 0.5888
+Scaled R-squared (R2) score:  91.53
+Percentage of correct predictions for rows 1-31: 77.42%
+Selected Columns: ('temp_low', 'rain', 'humid', 'day', 'light', 'elec'), R-squared (R2) score: 0.5882
+Scaled R-squared (R2) score:  91.49
+Percentage of correct predictions for rows 1-31: 74.19%
+Selected Columns: ('temp_low', 'rain', 'light', 'elec'), R-squared (R2) score: 0.5880
+Scaled R-squared (R2) score:  91.47
+Percentage of correct predictions for rows 1-31: 77.42%
+Selected Columns: ('temp_low', 'rain', 'day', 'light', 'elec'), R-squared (R2) score: 0.5872
+Scaled R-squared (R2) score:  91.40
+Percentage of correct predictions for rows 1-31: 77.42%
+Selected Columns: ('temp_high', 'rain', 'day', 'light', 'elec'), R-squared (R2) score: 0.5872
+Scaled R-squared (R2) score:  91.40
+Percentage of correct predictions for rows 1-31: 83.87%
+Selected Columns: ('temp_high', 'rain', 'humid', 'day', 'elec'), R-squared (R2) score: 0.5866
+Scaled R-squared (R2) score:  91.35
+Percentage of correct predictions for rows 1-31: 80.65%
+Selected Columns: ('temp_high', 'rain', 'light', 'elec'), R-squared (R2) score: 0.5860
+Scaled R-squared (R2) score:  91.30
+Percentage of correct predictions for rows 1-31: 80.65%
+Selected Columns: ('temp_high', 'rain', 'humid', 'elec'), R-squared (R2) score: 0.5846
+Scaled R-squared (R2) score:  91.19
+Percentage of correct predictions for rows 1-31: 83.87%
+Selected Columns: ('temp_high', 'humid', 'light', 'elec'), R-squared (R2) score: 0.5819
+Scaled R-squared (R2) score:  90.95
+Percentage of correct predictions for rows 1-31: 80.65%
+Selected Columns: ('temp_high', 'humid', 'day', 'light', 'elec'), R-squared (R2) score: 0.5815
+Scaled R-squared (R2) score:  90.92
+Percentage of correct predictions for rows 1-31: 80.65%
+Selected Columns: ('temp_high', 'light', 'elec'), R-squared (R2) score: 0.5764
+Scaled R-squared (R2) score:  90.48
+Percentage of correct predictions for rows 1-31: 77.42%
+Selected Columns: ('temp_high', 'day', 'light', 'elec'), R-squared (R2) score: 0.5762
+Scaled R-squared (R2) score:  90.47
+Percentage of correct predictions for rows 1-31: 80.65%
+Selected Columns: ('temp_low', 'humid', 'light', 'elec'), R-squared (R2) score: 0.5732
+Scaled R-squared (R2) score:  90.22
+Percentage of correct predictions for rows 1-31: 70.97%
+Selected Columns: ('temp_low', 'light', 'elec'), R-squared (R2) score: 0.5730
+Scaled R-squared (R2) score:  90.20
+Percentage of correct predictions for rows 1-31: 74.19%
+Selected Columns: ('temp_low', 'humid', 'day', 'light', 'elec'), R-squared (R2) score: 0.5684
+Scaled R-squared (R2) score:  89.81
+Percentage of correct predictions for rows 1-31: 80.65%
+Selected Columns: ('temp_low', 'day', 'light', 'elec'), R-squared (R2) score: 0.5681
+Scaled R-squared (R2) score:  89.78
+Percentage of correct predictions for rows 1-31: 80.65%
+Selected Columns: ('temp_high', 'humid', 'elec'), R-squared (R2) score: 0.5676
+Scaled R-squared (R2) score:  89.74
+Percentage of correct predictions for rows 1-31: 80.65%
+Selected Columns: ('temp_high', 'humid', 'day', 'elec'), R-squared (R2) score: 0.5672
+Scaled R-squared (R2) score:  89.70
+Percentage of correct predictions for rows 1-31: 80.65%
+Selected Columns: ('temp_high', 'temp_low', 'rain', 'humid', 'day', 'light', 'sunrise', 'elec'), R-squared (R2) score: 0.5560
+Scaled R-squared (R2) score:  88.76
+Percentage of correct predictions for rows 1-31: 77.42%
+Selected Columns: ('temp_high', 'temp_low', 'rain', 'humid', 'day', 'sunrise', 'elec'), R-squared (R2) score: 0.5558
+Scaled R-squared (R2) score:  88.74
+Percentage of correct predictions for rows 1-31: 77.42%
+Selected Columns: ('temp_high', 'temp_low', 'rain', 'humid', 'light', 'sunrise', 'elec'), R-squared (R2) score: 0.5557
+Scaled R-squared (R2) score:  88.74
+Percentage of correct predictions for rows 1-31: 80.65%
+Selected Columns: ('temp_high', 'temp_low', 'rain', 'humid', 'sunrise', 'elec'), R-squared (R2) score: 0.5553
+Scaled R-squared (R2) score:  88.70
+Percentage of correct predictions for rows 1-31: 80.65%
+Selected Columns: ('temp_mean', 'temp_high', 'temp_low', 'rain', 'humid', 'day', 'sunrise', 'elec'), R-squared (R2) score: 0.5540
+Scaled R-squared (R2) score:  88.59
+Percentage of correct predictions for rows 1-31: 74.19%
+Selected Columns: ('temp_mean', 'temp_high', 'temp_low', 'rain', 'humid', 'day', 'light', 'sunrise', 'elec'), R-squared (R2) score: 0.5536
+Scaled R-squared (R2) score:  88.56
+Percentage of correct predictions for rows 1-31: 74.19%
+Selected Columns: ('temp_mean', 'temp_high', 'temp_low', 'rain', 'humid', 'sunrise', 'elec'), R-squared (R2) score: 0.5533
+Scaled R-squared (R2) score:  88.53
+Percentage of correct predictions for rows 1-31: 77.42%
+Selected Columns: ('temp_mean', 'temp_high', 'temp_low', 'rain', 'humid', 'light', 'sunrise', 'elec'), R-squared (R2) score: 0.5533
+Scaled R-squared (R2) score:  88.53
+Percentage of correct predictions for rows 1-31: 77.42%
+Selected Columns: ('temp_mean', 'temp_high', 'rain', 'humid', 'day', 'sunrise', 'elec'), R-squared (R2) score: 0.5533
+Scaled R-squared (R2) score:  88.53
+Percentage of correct predictions for rows 1-31: 74.19%
+Selected Columns: ('temp_mean', 'temp_high', 'rain', 'humid', 'day', 'light', 'sunrise', 'elec'), R-squared (R2) score: 0.5532
+Scaled R-squared (R2) score:  88.52
+Percentage of correct predictions for rows 1-31: 74.19%
+Selected Columns: ('temp_mean', 'temp_high', 'rain', 'humid', 'light', 'sunrise', 'elec'), R-squared (R2) score: 0.5528
+Scaled R-squared (R2) score:  88.49
+Percentage of correct predictions for rows 1-31: 77.42%
+Selected Columns: ('temp_high', 'day', 'elec'), R-squared (R2) score: 0.5526
+Scaled R-squared (R2) score:  88.47
+Percentage of correct predictions for rows 1-31: 70.97%
+Selected Columns: ('temp_mean', 'temp_high', 'rain', 'humid', 'sunrise', 'elec'), R-squared (R2) score: 0.5525
+Scaled R-squared (R2) score:  88.47
+Percentage of correct predictions for rows 1-31: 77.42%
+Selected Columns: ('temp_high', 'elec'), R-squared (R2) score: 0.5522
+Scaled R-squared (R2) score:  88.44
+Percentage of correct predictions for rows 1-31: 70.97%
+Selected Columns: ('temp_mean', 'rain', 'humid', 'sunrise', 'elec'), R-squared (R2) score: 0.5504
+Scaled R-squared (R2) score:  88.28
+Percentage of correct predictions for rows 1-31: 74.19%
+Selected Columns: ('temp_mean', 'rain', 'humid', 'day', 'sunrise', 'elec'), R-squared (R2) score: 0.5504
+Scaled R-squared (R2) score:  88.28
+Percentage of correct predictions for rows 1-31: 74.19%
+Selected Columns: ('temp_high', 'temp_low', 'rain', 'light', 'sunrise', 'elec'), R-squared (R2) score: 0.5502
+Scaled R-squared (R2) score:  88.27
+Percentage of correct predictions for rows 1-31: 74.19%
+Selected Columns: ('temp_mean', 'temp_low', 'rain', 'humid', 'day', 'sunrise', 'elec'), R-squared (R2) score: 0.5498
+Scaled R-squared (R2) score:  88.23
+Percentage of correct predictions for rows 1-31: 74.19%
+Selected Columns: ('temp_mean', 'temp_high', 'temp_low', 'rain', 'light', 'sunrise', 'elec'), R-squared (R2) score: 0.5495
+Scaled R-squared (R2) score:  88.21
+Percentage of correct predictions for rows 1-31: 77.42%
+Selected Columns: ('temp_high', 'temp_low', 'rain', 'day', 'light', 'sunrise', 'elec'), R-squared (R2) score: 0.5494
+Scaled R-squared (R2) score:  88.20
+Percentage of correct predictions for rows 1-31: 74.19%
+Selected Columns: ('temp_mean', 'temp_low', 'rain', 'humid', 'sunrise', 'elec'), R-squared (R2) score: 0.5490
+Scaled R-squared (R2) score:  88.17
+Percentage of correct predictions for rows 1-31: 74.19%
+Selected Columns: ('temp_mean', 'temp_high', 'rain', 'light', 'sunrise', 'elec'), R-squared (R2) score: 0.5487
+Scaled R-squared (R2) score:  88.14
+Percentage of correct predictions for rows 1-31: 77.42%
+Selected Columns: ('temp_mean', 'temp_high', 'temp_low', 'rain', 'day', 'light', 'sunrise', 'elec'), R-squared (R2) score: 0.5487
+Scaled R-squared (R2) score:  88.14
+Percentage of correct predictions for rows 1-31: 77.42%
+Selected Columns: ('temp_high', 'temp_low', 'rain', 'sunrise', 'elec'), R-squared (R2) score: 0.5482
+Scaled R-squared (R2) score:  88.10
+Percentage of correct predictions for rows 1-31: 74.19%
+Selected Columns: ('temp_mean', 'temp_high', 'rain', 'day', 'light', 'sunrise', 'elec'), R-squared (R2) score: 0.5481
+Scaled R-squared (R2) score:  88.09
+Percentage of correct predictions for rows 1-31: 77.42%
+Selected Columns: ('temp_high', 'rain', 'elec'), R-squared (R2) score: 0.5480
+Scaled R-squared (R2) score:  88.08
+Percentage of correct predictions for rows 1-31: 70.97%
+Selected Columns: ('temp_high', 'rain', 'humid', 'day', 'light', 'sunrise', 'elec'), R-squared (R2) score: 0.5478
+Scaled R-squared (R2) score:  88.07
+Percentage of correct predictions for rows 1-31: 80.65%
+Selected Columns: ('temp_high', 'rain', 'day', 'elec'), R-squared (R2) score: 0.5478
+Scaled R-squared (R2) score:  88.06
+Percentage of correct predictions for rows 1-31: 70.97%
+Selected Columns: ('temp_mean', 'temp_high', 'temp_low', 'rain', 'sunrise', 'elec'), R-squared (R2) score: 0.5469
+Scaled R-squared (R2) score:  87.99
+Percentage of correct predictions for rows 1-31: 77.42%
+Selected Columns: ('temp_high', 'temp_low', 'rain', 'day', 'sunrise', 'elec'), R-squared (R2) score: 0.5468
+Scaled R-squared (R2) score:  87.98
+Percentage of correct predictions for rows 1-31: 74.19%
+Selected Columns: ('temp_high', 'rain', 'humid', 'light', 'sunrise', 'elec'), R-squared (R2) score: 0.5465
+Scaled R-squared (R2) score:  87.96
+Percentage of correct predictions for rows 1-31: 83.87%
+Selected Columns: ('temp_mean', 'temp_low', 'rain', 'humid', 'day', 'light', 'sunrise', 'elec'), R-squared (R2) score: 0.5458
+Scaled R-squared (R2) score:  87.90
+Percentage of correct predictions for rows 1-31: 74.19%
+Selected Columns: ('temp_mean', 'temp_high', 'temp_low', 'rain', 'day', 'sunrise', 'elec'), R-squared (R2) score: 0.5458
+Scaled R-squared (R2) score:  87.89
+Percentage of correct predictions for rows 1-31: 77.42%
+Selected Columns: ('temp_mean', 'temp_low', 'rain', 'humid', 'light', 'sunrise', 'elec'), R-squared (R2) score: 0.5457
+Scaled R-squared (R2) score:  87.89
+Percentage of correct predictions for rows 1-31: 74.19%
+Selected Columns: ('temp_mean', 'sunrise', 'elec'), R-squared (R2) score: 0.5457
+Scaled R-squared (R2) score:  87.89
+Percentage of correct predictions for rows 1-31: 80.65%
+Selected Columns: ('temp_mean', 'rain', 'humid', 'light', 'sunrise', 'elec'), R-squared (R2) score: 0.5456
+Scaled R-squared (R2) score:  87.88
+Percentage of correct predictions for rows 1-31: 74.19%
+Selected Columns: ('temp_mean', 'rain', 'sunrise', 'elec'), R-squared (R2) score: 0.5454
+Scaled R-squared (R2) score:  87.86
+Percentage of correct predictions for rows 1-31: 74.19%
+Selected Columns: ('temp_mean', 'temp_low', 'humid', 'sunrise', 'elec'), R-squared (R2) score: 0.5452
+Scaled R-squared (R2) score:  87.84
+Percentage of correct predictions for rows 1-31: 77.42%
+Selected Columns: ('temp_mean', 'rain', 'humid', 'day', 'light', 'sunrise', 'elec'), R-squared (R2) score: 0.5451
+Scaled R-squared (R2) score:  87.84
+Percentage of correct predictions for rows 1-31: 74.19%
+Selected Columns: ('temp_mean', 'temp_low', 'rain', 'light', 'sunrise', 'elec'), R-squared (R2) score: 0.5448
+Scaled R-squared (R2) score:  87.81
+Percentage of correct predictions for rows 1-31: 74.19%
+Selected Columns: ('temp_mean', 'humid', 'sunrise', 'elec'), R-squared (R2) score: 0.5446
+Scaled R-squared (R2) score:  87.79
+Percentage of correct predictions for rows 1-31: 80.65%
+Selected Columns: ('temp_mean', 'rain', 'day', 'sunrise', 'elec'), R-squared (R2) score: 0.5446
+Scaled R-squared (R2) score:  87.79
+Percentage of correct predictions for rows 1-31: 74.19%
+Selected Columns: ('temp_mean', 'rain', 'light', 'sunrise', 'elec'), R-squared (R2) score: 0.5445
+Scaled R-squared (R2) score:  87.79
+Percentage of correct predictions for rows 1-31: 74.19%
+Selected Columns: ('temp_mean', 'temp_low', 'rain', 'sunrise', 'elec'), R-squared (R2) score: 0.5444
+Scaled R-squared (R2) score:  87.78
+Percentage of correct predictions for rows 1-31: 74.19%
+Selected Columns: ('temp_mean', 'temp_high', 'rain', 'sunrise', 'elec'), R-squared (R2) score: 0.5441
+Scaled R-squared (R2) score:  87.76
+Percentage of correct predictions for rows 1-31: 74.19%
+Selected Columns: ('temp_mean', 'temp_high', 'humid', 'light', 'sunrise', 'elec'), R-squared (R2) score: 0.5441
+Scaled R-squared (R2) score:  87.75
+Percentage of correct predictions for rows 1-31: 80.65%
+Selected Columns: ('temp_mean', 'temp_high', 'temp_low', 'humid', 'light', 'sunrise', 'elec'), R-squared (R2) score: 0.5440
+Scaled R-squared (R2) score:  87.74
+Percentage of correct predictions for rows 1-31: 80.65%
+Selected Columns: ('temp_mean', 'temp_low', 'humid', 'light', 'sunrise', 'elec'), R-squared (R2) score: 0.5439
+Scaled R-squared (R2) score:  87.73
+Percentage of correct predictions for rows 1-31: 77.42%
+Selected Columns: ('temp_mean', 'temp_low', 'rain', 'day', 'light', 'sunrise', 'elec'), R-squared (R2) score: 0.5438
+Scaled R-squared (R2) score:  87.73
+Percentage of correct predictions for rows 1-31: 74.19%
+Selected Columns: ('temp_mean', 'temp_high', 'humid', 'sunrise', 'elec'), R-squared (R2) score: 0.5437
+Scaled R-squared (R2) score:  87.72
+Percentage of correct predictions for rows 1-31: 80.65%
+Selected Columns: ('temp_mean', 'temp_low', 'rain', 'day', 'sunrise', 'elec'), R-squared (R2) score: 0.5437
+Scaled R-squared (R2) score:  87.71
+Percentage of correct predictions for rows 1-31: 74.19%
+Selected Columns: ('temp_mean', 'temp_high', 'temp_low', 'light', 'sunrise', 'elec'), R-squared (R2) score: 0.5436
+Scaled R-squared (R2) score:  87.71
+Percentage of correct predictions for rows 1-31: 77.42%
+Selected Columns: ('temp_mean', 'temp_high', 'light', 'sunrise', 'elec'), R-squared (R2) score: 0.5436
+Scaled R-squared (R2) score:  87.71
+Percentage of correct predictions for rows 1-31: 77.42%
+Selected Columns: ('temp_mean', 'humid', 'light', 'sunrise', 'elec'), R-squared (R2) score: 0.5435
+Scaled R-squared (R2) score:  87.70
+Percentage of correct predictions for rows 1-31: 77.42%
+Selected Columns: ('temp_mean', 'temp_high', 'temp_low', 'humid', 'sunrise', 'elec'), R-squared (R2) score: 0.5435
+Scaled R-squared (R2) score:  87.70
+Percentage of correct predictions for rows 1-31: 80.65%
+Selected Columns: ('temp_mean', 'rain', 'day', 'light', 'sunrise', 'elec'), R-squared (R2) score: 0.5434
+Scaled R-squared (R2) score:  87.69
+Percentage of correct predictions for rows 1-31: 74.19%
+Selected Columns: ('temp_mean', 'temp_low', 'sunrise', 'elec'), R-squared (R2) score: 0.5432
+Scaled R-squared (R2) score:  87.68
+Percentage of correct predictions for rows 1-31: 77.42%
+Selected Columns: ('temp_mean', 'temp_low', 'humid', 'day', 'sunrise', 'elec'), R-squared (R2) score: 0.5432
+Scaled R-squared (R2) score:  87.68
+Percentage of correct predictions for rows 1-31: 80.65%
+Selected Columns: ('temp_mean', 'temp_high', 'rain', 'day', 'sunrise', 'elec'), R-squared (R2) score: 0.5432
+Scaled R-squared (R2) score:  87.67
+Percentage of correct predictions for rows 1-31: 74.19%
+Selected Columns: ('temp_mean', 'temp_low', 'light', 'sunrise', 'elec'), R-squared (R2) score: 0.5431
+Scaled R-squared (R2) score:  87.67
+Percentage of correct predictions for rows 1-31: 77.42%
+Selected Columns: ('temp_mean', 'day', 'sunrise', 'elec'), R-squared (R2) score: 0.5430
+Scaled R-squared (R2) score:  87.66
+Percentage of correct predictions for rows 1-31: 77.42%
+Selected Columns: ('temp_mean', 'light', 'sunrise', 'elec'), R-squared (R2) score: 0.5428
+Scaled R-squared (R2) score:  87.64
+Percentage of correct predictions for rows 1-31: 74.19%
+Selected Columns: ('temp_mean', 'temp_high', 'temp_low', 'sunrise', 'elec'), R-squared (R2) score: 0.5425
+Scaled R-squared (R2) score:  87.62
+Percentage of correct predictions for rows 1-31: 77.42%
+Selected Columns: ('temp_mean', 'temp_high', 'sunrise', 'elec'), R-squared (R2) score: 0.5421
+Scaled R-squared (R2) score:  87.58
+Percentage of correct predictions for rows 1-31: 77.42%
+Selected Columns: ('temp_mean', 'temp_high', 'temp_low', 'humid', 'day', 'light', 'sunrise', 'elec'), R-squared (R2) score: 0.5421
+Scaled R-squared (R2) score:  87.58
+Percentage of correct predictions for rows 1-31: 80.65%
+Selected Columns: ('temp_mean', 'temp_high', 'humid', 'day', 'light', 'sunrise', 'elec'), R-squared (R2) score: 0.5420
+Scaled R-squared (R2) score:  87.58
+Percentage of correct predictions for rows 1-31: 80.65%
+Selected Columns: ('temp_mean', 'temp_high', 'humid', 'day', 'sunrise', 'elec'), R-squared (R2) score: 0.5417
+Scaled R-squared (R2) score:  87.55
+Percentage of correct predictions for rows 1-31: 80.65%
+Selected Columns: ('temp_mean', 'humid', 'day', 'sunrise', 'elec'), R-squared (R2) score: 0.5416
+Scaled R-squared (R2) score:  87.54
+Percentage of correct predictions for rows 1-31: 77.42%
+Selected Columns: ('temp_mean', 'temp_high', 'temp_low', 'humid', 'day', 'sunrise', 'elec'), R-squared (R2) score: 0.5416
+Scaled R-squared (R2) score:  87.54
+Percentage of correct predictions for rows 1-31: 80.65%
+Selected Columns: ('temp_mean', 'temp_low', 'humid', 'day', 'light', 'sunrise', 'elec'), R-squared (R2) score: 0.5415
+Scaled R-squared (R2) score:  87.53
+Percentage of correct predictions for rows 1-31: 80.65%
+Selected Columns: ('temp_mean', 'temp_high', 'day', 'light', 'sunrise', 'elec'), R-squared (R2) score: 0.5414
+Scaled R-squared (R2) score:  87.52
+Percentage of correct predictions for rows 1-31: 80.65%
+Selected Columns: ('temp_mean', 'temp_high', 'temp_low', 'day', 'light', 'sunrise', 'elec'), R-squared (R2) score: 0.5413
+Scaled R-squared (R2) score:  87.52
+Percentage of correct predictions for rows 1-31: 80.65%
+Selected Columns: ('temp_mean', 'temp_low', 'day', 'sunrise', 'elec'), R-squared (R2) score: 0.5409
+Scaled R-squared (R2) score:  87.48
+Percentage of correct predictions for rows 1-31: 74.19%
+Selected Columns: ('temp_mean', 'temp_low', 'day', 'light', 'sunrise', 'elec'), R-squared (R2) score: 0.5405
+Scaled R-squared (R2) score:  87.45
+Percentage of correct predictions for rows 1-31: 74.19%
+Selected Columns: ('temp_high', 'temp_low', 'humid', 'light', 'sunrise', 'elec'), R-squared (R2) score: 0.5404
+Scaled R-squared (R2) score:  87.44
+Percentage of correct predictions for rows 1-31: 80.65%
+Selected Columns: ('temp_mean', 'humid', 'day', 'light', 'sunrise', 'elec'), R-squared (R2) score: 0.5401
+Scaled R-squared (R2) score:  87.42
+Percentage of correct predictions for rows 1-31: 74.19%
+Selected Columns: ('temp_high', 'temp_low', 'light', 'sunrise', 'elec'), R-squared (R2) score: 0.5400
+Scaled R-squared (R2) score:  87.40
+Percentage of correct predictions for rows 1-31: 80.65%
+Selected Columns: ('temp_high', 'temp_low', 'humid', 'sunrise', 'elec'), R-squared (R2) score: 0.5400
+Scaled R-squared (R2) score:  87.40
+Percentage of correct predictions for rows 1-31: 80.65%
+Selected Columns: ('temp_mean', 'temp_high', 'temp_low', 'day', 'sunrise', 'elec'), R-squared (R2) score: 0.5399
+Scaled R-squared (R2) score:  87.39
+Percentage of correct predictions for rows 1-31: 77.42%
+Selected Columns: ('temp_high', 'temp_low', 'sunrise', 'elec'), R-squared (R2) score: 0.5396
+Scaled R-squared (R2) score:  87.37
+Percentage of correct predictions for rows 1-31: 77.42%
+Selected Columns: ('temp_mean', 'temp_high', 'day', 'sunrise', 'elec'), R-squared (R2) score: 0.5396
+Scaled R-squared (R2) score:  87.37
+Percentage of correct predictions for rows 1-31: 77.42%
+Selected Columns: ('temp_mean', 'day', 'light', 'sunrise', 'elec'), R-squared (R2) score: 0.5395
+Scaled R-squared (R2) score:  87.36
+Percentage of correct predictions for rows 1-31: 74.19%
+Selected Columns: ('temp_high', 'temp_low', 'humid', 'day', 'light', 'sunrise', 'elec'), R-squared (R2) score: 0.5384
+Scaled R-squared (R2) score:  87.27
+Percentage of correct predictions for rows 1-31: 80.65%
+Selected Columns: ('temp_high', 'temp_low', 'humid', 'day', 'sunrise', 'elec'), R-squared (R2) score: 0.5378
+Scaled R-squared (R2) score:  87.22
+Percentage of correct predictions for rows 1-31: 80.65%
+Selected Columns: ('temp_high', 'temp_low', 'day', 'light', 'sunrise', 'elec'), R-squared (R2) score: 0.5376
+Scaled R-squared (R2) score:  87.20
+Percentage of correct predictions for rows 1-31: 80.65%
+Selected Columns: ('temp_high', 'temp_low', 'day', 'sunrise', 'elec'), R-squared (R2) score: 0.5366
+Scaled R-squared (R2) score:  87.12
+Percentage of correct predictions for rows 1-31: 80.65%
+Selected Columns: ('temp_high', 'rain', 'day', 'light', 'sunrise', 'elec'), R-squared (R2) score: 0.5364
+Scaled R-squared (R2) score:  87.10
+Percentage of correct predictions for rows 1-31: 77.42%
+Selected Columns: ('temp_high', 'rain', 'light', 'sunrise', 'elec'), R-squared (R2) score: 0.5357
+Scaled R-squared (R2) score:  87.04
+Percentage of correct predictions for rows 1-31: 77.42%
+Selected Columns: ('temp_high', 'humid', 'light', 'sunrise', 'elec'), R-squared (R2) score: 0.5296
+Scaled R-squared (R2) score:  86.53
+Percentage of correct predictions for rows 1-31: 80.65%
+Selected Columns: ('temp_high', 'humid', 'day', 'light', 'sunrise', 'elec'), R-squared (R2) score: 0.5289
+Scaled R-squared (R2) score:  86.46
+Percentage of correct predictions for rows 1-31: 80.65%
+Selected Columns: ('temp_high', 'light', 'sunrise', 'elec'), R-squared (R2) score: 0.5268
+Scaled R-squared (R2) score:  86.28
+Percentage of correct predictions for rows 1-31: 77.42%
+Selected Columns: ('temp_high', 'day', 'light', 'sunrise', 'elec'), R-squared (R2) score: 0.5262
+Scaled R-squared (R2) score:  86.24
+Percentage of correct predictions for rows 1-31: 77.42%
+Selected Columns: ('temp_high', 'rain', 'humid', 'day', 'sunrise', 'elec'), R-squared (R2) score: 0.5250
+Scaled R-squared (R2) score:  86.13
+Percentage of correct predictions for rows 1-31: 80.65%
+Selected Columns: ('temp_high', 'rain', 'humid', 'sunrise', 'elec'), R-squared (R2) score: 0.5235
+Scaled R-squared (R2) score:  86.00
+Percentage of correct predictions for rows 1-31: 80.65%
+Selected Columns: ('temp_low', 'rain', 'humid', 'light', 'sunrise', 'elec'), R-squared (R2) score: 0.5195
+Scaled R-squared (R2) score:  85.66
+Percentage of correct predictions for rows 1-31: 77.42%
+Selected Columns: ('temp_low', 'rain', 'light', 'sunrise', 'elec'), R-squared (R2) score: 0.5184
+Scaled R-squared (R2) score:  85.57
+Percentage of correct predictions for rows 1-31: 77.42%
+Selected Columns: ('temp_low', 'light', 'sunrise', 'elec'), R-squared (R2) score: 0.5160
+Scaled R-squared (R2) score:  85.37
+Percentage of correct predictions for rows 1-31: 74.19%
+Selected Columns: ('temp_low', 'rain', 'humid', 'day', 'light', 'sunrise', 'elec'), R-squared (R2) score: 0.5156
+Scaled R-squared (R2) score:  85.34
+Percentage of correct predictions for rows 1-31: 80.65%
+Selected Columns: ('temp_low', 'rain', 'day', 'light', 'sunrise', 'elec'), R-squared (R2) score: 0.5143
+Scaled R-squared (R2) score:  85.23
+Percentage of correct predictions for rows 1-31: 80.65%
+Selected Columns: ('temp_low', 'humid', 'light', 'sunrise', 'elec'), R-squared (R2) score: 0.5125
+Scaled R-squared (R2) score:  85.08
+Percentage of correct predictions for rows 1-31: 83.87%
+Selected Columns: ('temp_high', 'humid', 'sunrise', 'elec'), R-squared (R2) score: 0.5106
+Scaled R-squared (R2) score:  84.91
+Percentage of correct predictions for rows 1-31: 80.65%
+Selected Columns: ('temp_high', 'humid', 'day', 'sunrise', 'elec'), R-squared (R2) score: 0.5098
+Scaled R-squared (R2) score:  84.84
+Percentage of correct predictions for rows 1-31: 80.65%
+Selected Columns: ('temp_low', 'day', 'light', 'sunrise', 'elec'), R-squared (R2) score: 0.5085
+Scaled R-squared (R2) score:  84.74
+Percentage of correct predictions for rows 1-31: 80.65%
+Selected Columns: ('temp_low', 'humid', 'day', 'light', 'sunrise', 'elec'), R-squared (R2) score: 0.5049
+Scaled R-squared (R2) score:  84.43
+Percentage of correct predictions for rows 1-31: 80.65%
+Selected Columns: ('temp_low', 'rain', 'humid', 'day', 'elec'), R-squared (R2) score: 0.5010
+Scaled R-squared (R2) score:  84.10
+Percentage of correct predictions for rows 1-31: 77.42%
+Selected Columns: ('temp_low', 'rain', 'humid', 'elec'), R-squared (R2) score: 0.5006
+Scaled R-squared (R2) score:  84.07
+Percentage of correct predictions for rows 1-31: 70.97%
+Selected Columns: ('temp_high', 'sunrise', 'elec'), R-squared (R2) score: 0.4910
+Scaled R-squared (R2) score:  83.26
+Percentage of correct predictions for rows 1-31: 74.19%
+Selected Columns: ('temp_high', 'day', 'sunrise', 'elec'), R-squared (R2) score: 0.4907
+Scaled R-squared (R2) score:  83.23
+Percentage of correct predictions for rows 1-31: 70.97%
+Selected Columns: ('temp_high', 'rain', 'sunrise', 'elec'), R-squared (R2) score: 0.4888
+Scaled R-squared (R2) score:  83.06
+Percentage of correct predictions for rows 1-31: 74.19%
+Selected Columns: ('temp_high', 'rain', 'day', 'sunrise', 'elec'), R-squared (R2) score: 0.4879
+Scaled R-squared (R2) score:  82.99
+Percentage of correct predictions for rows 1-31: 70.97%
+Selected Columns: ('temp_low', 'humid', 'elec'), R-squared (R2) score: 0.4843
+Scaled R-squared (R2) score:  82.69
+Percentage of correct predictions for rows 1-31: 67.74%
+Selected Columns: ('temp_low', 'humid', 'day', 'elec'), R-squared (R2) score: 0.4809
+Scaled R-squared (R2) score:  82.40
+Percentage of correct predictions for rows 1-31: 74.19%
+Selected Columns: ('temp_low', 'rain', 'humid', 'sunrise', 'elec'), R-squared (R2) score: 0.4669
+Scaled R-squared (R2) score:  81.21
+Percentage of correct predictions for rows 1-31: 70.97%
+Selected Columns: ('temp_low', 'rain', 'humid', 'day', 'sunrise', 'elec'), R-squared (R2) score: 0.4656
+Scaled R-squared (R2) score:  81.10
+Percentage of correct predictions for rows 1-31: 74.19%
+Selected Columns: ('temp_low', 'rain', 'day', 'sunrise', 'elec'), R-squared (R2) score: 0.4612
+Scaled R-squared (R2) score:  80.73
+Percentage of correct predictions for rows 1-31: 77.42%
+Selected Columns: ('temp_low', 'rain', 'day', 'elec'), R-squared (R2) score: 0.4607
+Scaled R-squared (R2) score:  80.69
+Percentage of correct predictions for rows 1-31: 77.42%
+Selected Columns: ('temp_low', 'rain', 'sunrise', 'elec'), R-squared (R2) score: 0.4597
+Scaled R-squared (R2) score:  80.61
+Percentage of correct predictions for rows 1-31: 80.65%
+Selected Columns: ('temp_low', 'rain', 'elec'), R-squared (R2) score: 0.4582
+Scaled R-squared (R2) score:  80.48
+Percentage of correct predictions for rows 1-31: 80.65%
+Selected Columns: ('temp_low', 'humid', 'sunrise', 'elec'), R-squared (R2) score: 0.4549
+Scaled R-squared (R2) score:  80.20
+Percentage of correct predictions for rows 1-31: 67.74%
+Selected Columns: ('temp_low', 'humid', 'day', 'sunrise', 'elec'), R-squared (R2) score: 0.4500
+Scaled R-squared (R2) score:  79.78
+Percentage of correct predictions for rows 1-31: 74.19%
+Selected Columns: ('temp_low', 'sunrise', 'elec'), R-squared (R2) score: 0.4263
+Scaled R-squared (R2) score:  77.78
+Percentage of correct predictions for rows 1-31: 80.65%
+Selected Columns: ('temp_low', 'day', 'sunrise', 'elec'), R-squared (R2) score: 0.4236
+Scaled R-squared (R2) score:  77.55
+Percentage of correct predictions for rows 1-31: 77.42%
+Selected Columns: ('temp_low', 'elec'), R-squared (R2) score: 0.3737
+Scaled R-squared (R2) score:  73.32
+Percentage of correct predictions for rows 1-31: 80.65%
+Selected Columns: ('temp_low', 'day', 'elec'), R-squared (R2) score: 0.3708
+Scaled R-squared (R2) score:  73.08
+Percentage of correct predictions for rows 1-31: 80.65%
+Selected Columns: ('day', 'sunrise', 'elec'), R-squared (R2) score: 0.3211
+Scaled R-squared (R2) score:  68.87
+Percentage of correct predictions for rows 1-31: 54.84%
+Selected Columns: ('sunrise', 'elec'), R-squared (R2) score: 0.3140
+Scaled R-squared (R2) score:  68.27
+Percentage of correct predictions for rows 1-31: 54.84%
+Selected Columns: ('rain', 'day', 'sunrise', 'elec'), R-squared (R2) score: 0.3073
+Scaled R-squared (R2) score:  67.70
+Percentage of correct predictions for rows 1-31: 58.06%
+Selected Columns: ('rain', 'sunrise', 'elec'), R-squared (R2) score: 0.3010
+Scaled R-squared (R2) score:  67.17
+Percentage of correct predictions for rows 1-31: 58.06%
+Selected Columns: ('rain', 'humid', 'day', 'sunrise', 'elec'), R-squared (R2) score: 0.2714
+Scaled R-squared (R2) score:  64.66
+Percentage of correct predictions for rows 1-31: 64.52%
+Selected Columns: ('humid', 'day', 'sunrise', 'elec'), R-squared (R2) score: 0.2670
+Scaled R-squared (R2) score:  64.28
+Percentage of correct predictions for rows 1-31: 64.52%
+Selected Columns: ('rain', 'humid', 'sunrise', 'elec'), R-squared (R2) score: 0.2635
+Scaled R-squared (R2) score:  63.99
+Percentage of correct predictions for rows 1-31: 61.29%
+Selected Columns: ('humid', 'sunrise', 'elec'), R-squared (R2) score: 0.2608
+Scaled R-squared (R2) score:  63.76
+Percentage of correct predictions for rows 1-31: 64.52%
+Selected Columns: ('rain', 'humid', 'day', 'light', 'sunrise', 'elec'), R-squared (R2) score: 0.2081
+Scaled R-squared (R2) score:  59.30
+Percentage of correct predictions for rows 1-31: 61.29%
+Selected Columns: ('rain', 'day', 'light', 'sunrise', 'elec'), R-squared (R2) score: 0.2023
+Scaled R-squared (R2) score:  58.80
+Percentage of correct predictions for rows 1-31: 61.29%
+Selected Columns: ('humid', 'day', 'light', 'sunrise', 'elec'), R-squared (R2) score: 0.2019
+Scaled R-squared (R2) score:  58.77
+Percentage of correct predictions for rows 1-31: 61.29%
+Selected Columns: ('day', 'light', 'sunrise', 'elec'), R-squared (R2) score: 0.2007
+Scaled R-squared (R2) score:  58.67
+Percentage of correct predictions for rows 1-31: 61.29%
+Selected Columns: ('rain', 'humid', 'light', 'sunrise', 'elec'), R-squared (R2) score: 0.2001
+Scaled R-squared (R2) score:  58.62
+Percentage of correct predictions for rows 1-31: 61.29%
+Selected Columns: ('humid', 'light', 'sunrise', 'elec'), R-squared (R2) score: 0.1957
+Scaled R-squared (R2) score:  58.24
+Percentage of correct predictions for rows 1-31: 61.29%
+Selected Columns: ('rain', 'light', 'sunrise', 'elec'), R-squared (R2) score: 0.1946
+Scaled R-squared (R2) score:  58.15
+Percentage of correct predictions for rows 1-31: 61.29%
+Selected Columns: ('light', 'sunrise', 'elec'), R-squared (R2) score: 0.1943
+Scaled R-squared (R2) score:  58.13
+Percentage of correct predictions for rows 1-31: 61.29%
+Selected Columns: ('day', 'elec'), R-squared (R2) score: -0.2199
+Scaled R-squared (R2) score:  23.05
+Percentage of correct predictions for rows 1-31: 58.06%
+Selected Columns: ('rain', 'day', 'elec'), R-squared (R2) score: -0.2308
+Scaled R-squared (R2) score:  22.13
+Percentage of correct predictions for rows 1-31: 61.29%
+Selected Columns: ('rain', 'elec'), R-squared (R2) score: -0.2396
+Scaled R-squared (R2) score:  21.38
+Percentage of correct predictions for rows 1-31: 64.52%
+Selected Columns: ('humid', 'day', 'elec'), R-squared (R2) score: -0.2908
+Scaled R-squared (R2) score:  17.05
+Percentage of correct predictions for rows 1-31: 64.52%
+Selected Columns: ('rain', 'humid', 'day', 'elec'), R-squared (R2) score: -0.2913
+Scaled R-squared (R2) score:  17.00
+Percentage of correct predictions for rows 1-31: 64.52%
+Selected Columns: ('humid', 'elec'), R-squared (R2) score: -0.2999
+Scaled R-squared (R2) score:  16.27
+Percentage of correct predictions for rows 1-31: 67.74%
+Selected Columns: ('rain', 'humid', 'elec'), R-squared (R2) score: -0.3017
+Scaled R-squared (R2) score:  16.12
+Percentage of correct predictions for rows 1-31: 67.74%
+Selected Columns: ('rain', 'humid', 'day', 'light', 'elec'), R-squared (R2) score: -0.3622
+Scaled R-squared (R2) score:  10.99
+Percentage of correct predictions for rows 1-31: 70.97%
+Selected Columns: ('rain', 'day', 'light', 'elec'), R-squared (R2) score: -0.3629
+Scaled R-squared (R2) score:  10.93
+Percentage of correct predictions for rows 1-31: 70.97%
+Selected Columns: ('humid', 'day', 'light', 'elec'), R-squared (R2) score: -0.3631
+Scaled R-squared (R2) score:  10.92
+Percentage of correct predictions for rows 1-31: 70.97%
+Selected Columns: ('day', 'light', 'elec'), R-squared (R2) score: -0.3649
+Scaled R-squared (R2) score:  10.77
+Percentage of correct predictions for rows 1-31: 70.97%
+Selected Columns: ('humid', 'light', 'elec'), R-squared (R2) score: -0.3725
+Scaled R-squared (R2) score:  10.12
+Percentage of correct predictions for rows 1-31: 67.74%
+Selected Columns: ('rain', 'humid', 'light', 'elec'), R-squared (R2) score: -0.3728
+Scaled R-squared (R2) score:  10.10
+Percentage of correct predictions for rows 1-31: 67.74%
+Selected Columns: ('rain', 'light', 'elec'), R-squared (R2) score: -0.3738
+Scaled R-squared (R2) score:  10.02
+Percentage of correct predictions for rows 1-31: 74.19%
+Selected Columns: ('light', 'elec'), R-squared (R2) score: -0.3740
+Scaled R-squared (R2) score:  10.00
+Percentage of correct predictions for rows 1-31: 74.19%
